@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>RoxChats</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <div id="app-area">
+      <div id="chat-area">
+        <div id="messages"></div>
+        <input type="text" id="chat-textbox" placeholder="Say Something" />
+      </div>
+    </div>
+
+    <script
+      defer
+      src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"
+    ></script>
+
+    <script
+      defer
+      src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"
+    ></script>
+    <script
+      defer
+      src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"
+    ></script>
+
+    <script defer src="script.js"></script>
+  </body>
+</html>

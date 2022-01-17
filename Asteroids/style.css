@@ -1,0 +1,14 @@
+html {
+	background-image: url("images/space-background.jpeg");
+	background-size: cover;
+	overflow: hidden;
+}
+
+
+#info-cont{
+	display: flex;
+	flex-direction: column;
+	right: 20px;
+	font-size: 40px;
+	position: absolute;
+}
