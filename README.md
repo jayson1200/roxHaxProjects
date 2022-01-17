@@ -1,2 +1,2 @@
 # roxHaxProjects
-These are the projects for members of the roxHax (Roxbury Programming Club)
+These are the projects for members of roxHax (Roxbury Programming Club)
